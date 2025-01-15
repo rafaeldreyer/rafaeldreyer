@@ -1,7 +1,6 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Unoesc.
 - 💼 Trabalhando como Desenvolvedor Full Stack na Reafrio.
 
 ## Minhas Skills
