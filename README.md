@@ -32,6 +32,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldreyer/)](https://www.linkedin.com/in/rafaeldreyer/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldreyer/)](https://www.linkedin.com/in/rafaeldreyer/)
 [![Gmail Badge](https://img.shields.io/badge/-dreyerafael@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dreyerafael@gmail.com)](mailto:dreyerafael@gmail.com)
 
