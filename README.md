@@ -27,3 +27,8 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+
+
+[![rafaeldreyer](https://github-readme-stats.vercel.app/api?username=rafaeldreyer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![rafaeldreyer](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldreyer&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
